@@ -14,3 +14,6 @@ Uma ferramenta de CLI (Linha de Comando) para automatizar o arquivamento e compa
 - Compacta logs em formato tar.gz
 - Adiciona timestamp ao nome do arquivo
 - Registra histórico de operações
+
+
+https://roadmap.sh/projects/log-archive-tool
