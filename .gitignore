@@ -1,0 +1,10 @@
+# Ignorar arquivos compactados
+*.tar.gz
+*.zip
+
+# Ignorar diretórios de logs criados durante testes
+arquivos_logs/
+
+# Ignorar arquivos de sistema ou temporários
+*.log
+.DS_Store
